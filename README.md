@@ -1,0 +1,1 @@
+This folder contains the csv file which contains urls of all Deepmind papers which were gathered using Octoparse under the topic 'Reinforcement Learning'. The notebook downloader.ipynb is used to download all arxiv papers that are in the csv using the arxiv API. topic_model.ipynb analyses the pdfs that were generated and topic models them.
